@@ -6,7 +6,7 @@
 - 😄 Pronomes: Ele/Dele
 - ⚡ Fun fact: Front-end é desenhar com códigos!
 
-[![Arthur-KF18 GitHub stats](https://github-readme-stats.vercel.app/api?username=Arthur-KF18&show_icons=true&theme=dracula)](https://github.com/Arthur-KF18/github-readme-stats)
+[![Jope1113 GitHub stats](https://github-readme-stats.vercel.app/api?username=Arthur-KF18&show_icons=true&theme=dracula)](https://github.com/Arthur-KF18/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-KF18&layout=compact&theme=dracula)](https://github.com/Arthur-KF18/github-readme-stats)
 
