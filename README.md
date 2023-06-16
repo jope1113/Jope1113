@@ -1,5 +1,4 @@
 # Fico feliz que tenha vindo aqui 😄
-
 # 😎 Sobre mim:
 🧱 Gosto muito de programar no geral <br>🎓 Cientista da Computação <br>💻 Desenvolvedor Front-end <br>🕹️ Gamer nas horas vagas <br>✏️ Estudando Front-End no geral <br>
 
